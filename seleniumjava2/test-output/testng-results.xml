@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-18T00:51:24 EST" name="Default suite" finished-at="2021-02-18T00:51:24 EST" duration-ms="46">
+    <groups>
+      <group name="smoke">
+        <method signature="secondTest.otherTest()[pri:0, instance:seleniumjava2.TestNgumjava2.TestNg.secondTest@23529fee]" name="otherTest" class="seleniumjava2.TestNgumjava2.TestNg.secondTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-02-18T00:51:24 EST" name="Default test" finished-at="2021-02-18T00:51:24 EST" duration-ms="46">
+      <class name="seleniumjava2.TestNgumjava2.TestNg.secondTest">
+        <test-method signature="loginTest()[pri:0, instance:seleniumjava2.TestNgumjava2.TestNg.secondTest@23529fee]" started-at="2021-02-18T00:51:24 EST" name="loginTest" finished-at="2021-02-18T00:51:24 EST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="otherTest()[pri:0, instance:seleniumjava2.TestNgumjava2.TestNg.secondTest@23529fee]" started-at="2021-02-18T00:51:24 EST" name="otherTest" finished-at="2021-02-18T00:51:24 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otherTest -->
+        <test-method is-config="true" signature="closebrowers()[pri:0, instance:seleniumjava2.TestNgumjava2.TestNg.secondTest@23529fee]" started-at="2021-02-18T00:51:24 EST" name="closebrowers" finished-at="2021-02-18T00:51:24 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowers -->
+        <test-method is-config="true" signature="terminate1()[pri:0, instance:seleniumjava2.TestNgumjava2.TestNg.secondTest@23529fee]" started-at="2021-02-18T00:51:24 EST" name="terminate1" finished-at="2021-02-18T00:51:24 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate1 -->
+      </class> <!-- seleniumjava2.TestNgumjava2.TestNg.secondTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
